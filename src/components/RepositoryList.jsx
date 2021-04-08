@@ -62,9 +62,8 @@ export function RepositoryList() {
               />
 
               <div className="info">
-                <h3>{author?.name}</h3>
-                <p>Joined in {moment(author?.created_at).format('DD-MM-YYYY')}</p>
-                <p>{author?.location}</p>
+                <h2>{author?.name}</h2>
+                <p className="title">{author?.location}</p>
                 <p>{author?.bio}</p>
               </div>
               </div>
