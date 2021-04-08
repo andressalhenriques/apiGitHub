@@ -28,4 +28,4 @@ To better fix the content and to be able to use some commands and concepts later
 
 ## :heavy_check_mark: Resultado:
 
-- O site está disponível **[aqui]()**
+- The application is available **[here]()**
